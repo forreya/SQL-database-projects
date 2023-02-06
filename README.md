@@ -5,3 +5,7 @@ This repository contains the following:
   * **SQL queries to databases** that read data from one table / joins, creates, updates or deletes new records.
   * **Integration of relational databases to various programs** through test-driven classes which implement CRUD methods and send SQL queries to databases.
   * **Programs that communicate with databases**, designed by creating sequence diagrams.
+
+### How to navigate:
+
+_There are two folders, one contains all the mini-programs & challenges I did involving SQL databases & the other was for designing database schemas._
